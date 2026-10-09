@@ -42,6 +42,7 @@ If you chose the .cia option, install it with FBI in the folder you put it in.
 As mentioned earlier, Texture Quality and Some Mesh Quality has been reduced in order to make the game run smoothly, the game runs at 51 fps with minor dips, but there might be some stuttering on first boot.
 
 (Note: using the Stereoscopic 3D will lower FPS)
+(Note 2: Emulation works good across some tests, but most were done on actual hardware)
 
 # How it was made
 
@@ -57,7 +58,7 @@ NO AI ASSETS, MESHES OR TEXTURES WERE GENERATED FOR THE PROJECT
 
 The game is currently on V1.4 (see if you can guess that reference) this is the only version I intend to put out at the moment. If 3 ghosts ever visit me at night and tell me to make another update, then I'll consider it, but for now, this is where I get off.
 
-#Gameplay Images: https://postimg.cc/gallery/SyFgrbM
+# Gameplay Images: https://postimg.cc/gallery/SyFgrbM
 
 # Credits
 
